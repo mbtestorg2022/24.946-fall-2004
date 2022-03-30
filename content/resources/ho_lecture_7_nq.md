@@ -9,6 +9,7 @@ description: 'This resource contains the following topics:
   8.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/c7bbc62c189ee1c1ef9d27764fe22a68_ho_lecture_7_nq.pdf
 file_type: application/pdf
+parent_uid: 4ec8e2c1-b21c-7298-b669-86cf2d0b13c2
 resourcetype: Document
 title: ho_lecture_7_nq.pdf
 uid: c7bbc62c-189e-e1c1-ef9d-27764fe22a68
